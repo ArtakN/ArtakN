@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Artak Navoyan
 
-<!--
-**ArtakN/ArtakN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack JavaScript Developer  
+Focused on building modern, responsive, and scalable applications with clean architecture and quality code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### **Frontend**
+- React  
+- TypeScript / JavaScript  
+- Zustand  
+- Angular  
+- Vite  
+- HTML5 / CSS3  
+- Tailwind CSS  
+
+### **Backend**
+- Node.js  
+- Express  
+- Koa  
+- MongoDB / Mongoose  
+- REST APIs  
+
+### **Testing**
+- Jest  
+- Vitest  
+
+### **Tools**
+- Git & GitHub  
+- Postman  
+- Docker  
+- Figma  
+- VS Code  
+
+---
+
+⭐ *Always improving. Always learning.*
