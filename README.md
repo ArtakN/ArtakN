@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artak Navoyan
 
-### 💻 Full-Stack JavaScript Developer  
+### 💻 Full-Stack Developer  
 Focused on building modern, responsive, and scalable applications with clean architecture and quality code.
 
 ---
